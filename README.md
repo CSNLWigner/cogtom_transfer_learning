@@ -12,7 +12,6 @@ LEARNING CURVE, AND LEARNING STRENGTH ANALYSES:
 
 ACROSS SESSIONS ANALYSES:
 
-(Across the training and transfer phase)
 - D8-D9 across sessions [FWD-BWD].ipynb
 - D8-D9 FWD_BWD [Transfer score].ipynb
 
