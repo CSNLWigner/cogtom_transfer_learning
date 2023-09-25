@@ -4,7 +4,7 @@ This repo contains the codes and analyses for the COGTOM TRANSFER LEARNING proje
 
 **REPO CONTENT:**
 
-**DATA**
+**Data**
 
 Experimental data: stimuli and measured RTs are in elarasztas_dataset.zip. 
 
