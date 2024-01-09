@@ -10,7 +10,7 @@ Experimental data: stimuli and measured RTs are in elarasztas_dataset.zip.
 
 **Scripts for the analyses**
 
-LEARNING CURVE, AND LEARNING STRENGTH ANALYSES:
+LEARNING CURVES, AND LEARNING STRENGTH ANALYSES:
 
 (Training and transfer pahse)
 >> TO DO <<
