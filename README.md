@@ -27,13 +27,13 @@ ACROSS SESSIONS ANALYSES:
 
 
 ALTERNATION PHASE ANALYSES:
-
->> TO DO <<
+- Alternating model performance.ipynb
+- Alternation score vs. learning strength.ipynb
 
 
 PERMUTED INTERNAL MODEL ANALYSES:
 - Sigma(CT) vs. sigma(GT).ipynb
-- Normative vs. alternative permutations.ipynb
+-  (Check this!!!) Normative vs. alternative permutations.ipynb
 
 CODES FOR PERMUTING THE INFERRED INTERNAL MODELS:
 
