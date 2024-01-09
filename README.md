@@ -32,8 +32,8 @@ ALTERNATION PHASE ANALYSES:
 
 
 PERMUTED INTERNAL MODEL ANALYSES:
-
->> TO DO <<
+- Sigma(CT) vs. sigma(GT).ipynb
+- Normative vs. alternative permutations.ipynb
 
 CODES FOR PERMUTING THE INFERRED INTERNAL MODELS:
 
