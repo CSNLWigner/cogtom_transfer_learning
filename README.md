@@ -52,7 +52,7 @@ Simulated data: prior_entropy.py (csvs with entropies for each participants)
 >> TO DO <<
 
 
-#### helper_functions
+#### HELPER FUNCTIONS
 
 - data_import.py
 - helper.py
