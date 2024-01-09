@@ -1,7 +1,7 @@
 # cogtom_transfer_learning
 This repo contains the codes and analyses for the **COGTOM TRANSFER LEARNING** project. 
 
-Manuscript: <a href="https://github.com/CSNLWigner/cogtom_transfer_learning/edit/main/README.md"> Identifying transfer learning in the reshaping of inductive biases. </a>
+Manuscript: <a href="https://github.com/CSNLWigner/cogtom_transfer_learning/main/README.md"> Identifying transfer learning in the reshaping of inductive biases. </a>
 
 # REPO CONTENT
 
