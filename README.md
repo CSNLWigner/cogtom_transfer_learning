@@ -3,6 +3,7 @@ This repo contains the codes and analyses for the **COGTOM TRANSFER LEARNING** p
 
 Manuscript: <a href="https://github.com/CSNLWigner/cogtom_transfer_learning/edit/main/README.md"> Identifying transfer learning in the reshaping of inductive biases. </a>
 
+# REPO CONTENT
 
 ## Data
 
@@ -51,6 +52,9 @@ Simulated data: prior_entropy.py (csvs with entropies for each participants)
 >> TO DO <<
 
 
-.PY FILES FOR CUSTOM FUNCTIONS: 
+#### helper_functions
 
->> TO DO <<
+- data_import.py
+- helper.py
+- plot_params.py
+- curlyBrace.py
