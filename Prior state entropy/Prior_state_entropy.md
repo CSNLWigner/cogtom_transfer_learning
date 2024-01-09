@@ -9,6 +9,7 @@ Within this analysis, we simulated Markov chains of 1m steps based on the transi
 
 #### 1. Generate Markov chains and calculate entropy
 (Generated prior entropies are saved in csvs at the prior entropies subfolder.)
+
 prior_entropy.py
 
 Run prior entropy file: 
