@@ -13,9 +13,11 @@ Experimental data: stimuli and measured RTs are in elarasztas_dataset.zip.
 LEARNING CURVES, AND LEARNING STRENGTH ANALYSES:
 
 (Training and transfer pahse)
-
-*Learning Curves D1-D8 (ALL PARTICIPANTS).ipynb
-
+- Learning Curves D1-D8 (ALL PARTICIPANTS).ipynb
+- CT = GT+Markov, LS on D1 vs. D9.ipynb
+- CT, Markov, GT on D1, D8.ipynb
+- Learning curves (111, 119), LS on transfer vs. LS on training.ipynb
+- Learning strength and D8 model performances.ipynb
 
 ACROSS SESSIONS ANALYSES:
 
