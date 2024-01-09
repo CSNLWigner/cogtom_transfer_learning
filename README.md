@@ -45,11 +45,9 @@ Data simulation: prior_entropy.py
 Simulated data: prior_entropy.py (csvs with entropies for each participants)
 
 
-
-
 #### CODES FOR PERMUTING THE INFERRED INTERNAL MODELS
-
->> TO DO <<
+- Permuting the Phi matrix.ipynb
+- sequences.csv
 
 
 #### HELPER FUNCTIONS
