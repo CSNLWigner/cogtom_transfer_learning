@@ -1,3 +1,5 @@
+## Curly brace documentation: https://matplotlib-curly-brace.readthedocs.io/en/latest/
+
 import matplotlib.pyplot as plt
 import numpy as np
 
