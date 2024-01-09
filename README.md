@@ -21,8 +21,8 @@ LEARNING CURVES, AND LEARNING STRENGTH ANALYSES:
 
 ACROSS SESSIONS ANALYSES:
 
-- D8-D9 across sessions [FWD-BWD].ipynb
-- D8-D9 FWD_BWD [Transfer score].ipynb
+- Across sessions - crossover plot (111, 119).ipynb
+- Transfer evaluation.ipynb
 
 
 ALTERNATION PHASE ANALYSES:
