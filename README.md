@@ -33,7 +33,7 @@ Experimental data: stimuli and measured RTs are in elarasztas_dataset.zip.
 
 #### PERMUTED INTERNAL MODEL ANALYSES
 - Sigma(CT) vs. sigma(GT).ipynb
--  (Check this!!!) Normative vs. alternative permutations.ipynb
+- Normative vs. alternative permutations.ipynb
 
 #### CODES FOR PERMUTING THE INFERRED INTERNAL MODELS
 
