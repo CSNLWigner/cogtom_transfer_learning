@@ -20,6 +20,7 @@ LEARNING CURVES, AND LEARNING STRENGTH ANALYSES:
 - Learning strength and D8 model performances.ipynb
 
 ACROSS SESSIONS ANALYSES:
+(Training and transfer pahse)
 
 - Across sessions - crossover plot (111, 119).ipynb
 - Transfer evaluation.ipynb
