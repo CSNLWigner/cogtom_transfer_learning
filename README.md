@@ -35,6 +35,14 @@ Experimental data: stimuli and measured RTs are in elarasztas_dataset.zip.
 - Sigma(CT) vs. sigma(GT).ipynb
 - Normative vs. alternative permutations.ipynb
 
+#### PRIOR ENTROPY OF THE HIDDEN STATES
+- Prior entropy of the hidden states.ipynb
+Data simulation: prior_entropy.py
+Simulated data: prior_entropy.py (csvs with entropies for each participants)
+
+
+
+
 #### CODES FOR PERMUTING THE INFERRED INTERNAL MODELS
 
 >> TO DO <<
