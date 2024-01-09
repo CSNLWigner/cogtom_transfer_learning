@@ -2,7 +2,7 @@
 This repo contains the codes and analyses for the COGTOM TRANSFER LEARNING project. (Manuscript title: identifying transfer learning in the reshaping of inductive biases).
 
 
-##REPO CONTENT:
+## REPO CONTENT:
 
 **Data**
 
