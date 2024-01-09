@@ -36,7 +36,7 @@ Experimental data: stimuli and measured RTs are in elarasztas_dataset.zip.
 - Normative vs. alternative permutations.ipynb
 
 #### HIDDEN STATE ANALYSES
-- CE of the hidden states
+- Cross-Entropy of the Hidden States.ipynb
 - Prior entropy of the hidden states.ipynb
 
 Data simulation: prior_entropy.py
