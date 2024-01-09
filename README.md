@@ -20,6 +20,8 @@ Experimental data: stimuli and measured RTs are in elarasztas_dataset.zip.
 - Learning curves (111, 119), LS on transfer vs. LS on training.ipynb
 - Learning strength and D8 model performances.ipynb
 
+  
+
 #### ACROSS SESSIONS ANALYSES
 (Training and transfer pahse)
 
@@ -27,18 +29,24 @@ Experimental data: stimuli and measured RTs are in elarasztas_dataset.zip.
 - Transfer evaluation.ipynb
 
 
+
+
 #### ALTERNATION PHASE ANALYSES
 - Alternating model performance.ipynb
 - Alternation score vs. learning strength.ipynb
+
+
 
 
 #### PERMUTED INTERNAL MODEL ANALYSES
 - Sigma(CT) vs. sigma(GT).ipynb
 - Normative vs. alternative permutations.ipynb
 
-Data manipulation: Permute inferred internal models
+Data manipulation: Internal model permutation
 - Permuting the Phi matrix.ipynb
 - sequences.csv
+
+
 
 
 #### HIDDEN STATE ANALYSES
@@ -48,6 +56,7 @@ Data manipulation: Permute inferred internal models
 Data simulation: prior_entropy.py
 
 Simulated data: prior_entropy.py (csvs with entropies for each participants)
+
 
 
 
