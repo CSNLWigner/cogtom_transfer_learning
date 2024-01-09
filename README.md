@@ -37,7 +37,9 @@ Experimental data: stimuli and measured RTs are in elarasztas_dataset.zip.
 
 #### PRIOR ENTROPY OF THE HIDDEN STATES
 - Prior entropy of the hidden states.ipynb
+
 Data simulation: prior_entropy.py
+
 Simulated data: prior_entropy.py (csvs with entropies for each participants)
 
 
